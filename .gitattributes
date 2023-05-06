@@ -4,3 +4,4 @@ books/JavaScript设计模式.pdf filter=lfs diff=lfs merge=lfs -text
 books/C\#高级编程(第7版).pdf filter=lfs diff=lfs merge=lfs -text
 books/架构整洁之道.pdf filter=lfs diff=lfs merge=lfs -text
 books/深入浅出Webpack.pdf filter=lfs diff=lfs merge=lfs -text
+books/C\#图解教程第4版.pdf filter=lfs diff=lfs merge=lfs -text
